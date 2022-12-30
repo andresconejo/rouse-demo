@@ -12,7 +12,7 @@
   "author": "Rodolfo Conejo",
   "license": "ISC",
   "devDependencies": {
-    "@wdio/mocha-framework": "^5.16.15",
+    "@wdio/mocha-framework": "^8.0.14",
     "@wdio/spec-reporter": "^5.16.11",
     "@wdio/sync": "^5.16.15",
     "chai": "^4.2.0",
